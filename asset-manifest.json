@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/jobhub/static/js/main.f8ba9c64.chunk.js",
-    "main.js.map": "/jobhub/static/js/main.f8ba9c64.chunk.js.map",
+    "main.js": "/jobhub/static/js/main.ddc5ad30.chunk.js",
+    "main.js.map": "/jobhub/static/js/main.ddc5ad30.chunk.js.map",
     "runtime-main.js": "/jobhub/static/js/runtime-main.56d21a03.js",
     "runtime-main.js.map": "/jobhub/static/js/runtime-main.56d21a03.js.map",
     "static/css/2.f4c56af9.chunk.css": "/jobhub/static/css/2.f4c56af9.chunk.css",
@@ -10,12 +10,13 @@
     "index.html": "/jobhub/index.html",
     "static/css/2.f4c56af9.chunk.css.map": "/jobhub/static/css/2.f4c56af9.chunk.css.map",
     "static/js/2.10323a66.chunk.js.LICENSE.txt": "/jobhub/static/js/2.10323a66.chunk.js.LICENSE.txt",
-    "static/media/img-01.447ffbaf.jpg": "/jobhub/static/media/img-01.447ffbaf.jpg"
+    "static/media/img-01.447ffbaf.jpg": "/jobhub/static/media/img-01.447ffbaf.jpg",
+    "static/media/logo.fe800519.png": "/jobhub/static/media/logo.fe800519.png"
   },
   "entrypoints": [
     "static/js/runtime-main.56d21a03.js",
     "static/css/2.f4c56af9.chunk.css",
     "static/js/2.10323a66.chunk.js",
-    "static/js/main.f8ba9c64.chunk.js"
+    "static/js/main.ddc5ad30.chunk.js"
   ]
 }
