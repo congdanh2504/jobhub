@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/jobhub/static/js/main.46143584.chunk.js",
-    "main.js.map": "/jobhub/static/js/main.46143584.chunk.js.map",
+    "main.js": "/jobhub/static/js/main.bb803767.chunk.js",
+    "main.js.map": "/jobhub/static/js/main.bb803767.chunk.js.map",
     "runtime-main.js": "/jobhub/static/js/runtime-main.56d21a03.js",
     "runtime-main.js.map": "/jobhub/static/js/runtime-main.56d21a03.js.map",
     "static/css/2.f4c56af9.chunk.css": "/jobhub/static/css/2.f4c56af9.chunk.css",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.56d21a03.js",
     "static/css/2.f4c56af9.chunk.css",
     "static/js/2.cc8e2f62.chunk.js",
-    "static/js/main.46143584.chunk.js"
+    "static/js/main.bb803767.chunk.js"
   ]
 }
